@@ -1,5 +1,6 @@
 # Gonzaga_CSST-102-Basic-Machine-Learning
 https://github.com/melandrei/Gonzaga_CSST-102-Basic-Machine-Learning/issues
+
 3 Types of Machine Learning
 Machine Learning in Various Domains 
 * Accounting
