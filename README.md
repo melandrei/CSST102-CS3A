@@ -1,5 +1,5 @@
 # Gonzaga_CSST-102-Basic-Machine-Learning
-
+https://github.com/melandrei/Gonzaga_CSST-102-Basic-Machine-Learning/blob/main/Gonzaga%2C%20Mel%20Andrei-Machine%20Learning%20(3).mp4
 Introduction
 3 Types of Machine Learning
 Machine Learning in Various Domains 
