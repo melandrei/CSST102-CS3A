@@ -120,3 +120,5 @@ https://www.patriotsoftware.com/accounting/machine-learning-accounting/
 https://www.intercom.com/learning-center/machine-learning-in-customer-service
 
 https://www.kvausa.com/training/ul-certified-autonomy-professional-training-in-machine-learning/
+
+Go here to get to EXER1 https://github.com/melandrei/CSST102-CS3A/blob/main/3A_GONZAGA_EXER1.ipynb
